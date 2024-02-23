@@ -6,3 +6,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=enesdorukbasi&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enesdorukbasi&theme=default&hide_border=true)<br/>
+
+<br>
+<hr>
+<br>
+![](https://github-readme-stats.vercel.app/api?username=Enes Dorukbaşı&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Enes Dorukbaşı&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes Dorukbaşı&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://visitcount.itsvg.in/api?id=Enes Dorukbaşı&icon=0&color=0)
